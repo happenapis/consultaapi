@@ -1,0 +1,9 @@
+{
+  "name": "consulta-cpf-netlify",
+  "version": "1.0.0",
+  "description": "Consulta CPF via função Netlify",
+  "main": "netlify/functions/cpf.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
